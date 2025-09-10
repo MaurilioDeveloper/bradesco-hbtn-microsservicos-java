@@ -3,7 +3,6 @@
     "id": 1,
     "nome": "Ze Fulano",
     "email": "zezinho@email.com",
-    "idade": 40,
     "telefones": [
       {
         "id": 3,
@@ -11,6 +10,7 @@
         "numero": "98253636"
       }
     ],
+    "idade": 40,
     "enderecos": [
       {
         "id": 1,
@@ -27,7 +27,6 @@
     "id": 2,
     "nome": "Manoel Antunes",
     "email": "manoel@email.com",
-    "idade": 26,
     "telefones": [
       {
         "id": 1,
@@ -40,6 +39,7 @@
         "numero": "99668855"
       }
     ],
+    "idade": 26,
     "enderecos": [
       {
         "id": 2,
