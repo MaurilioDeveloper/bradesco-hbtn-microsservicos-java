@@ -2,8 +2,8 @@
   {
     "id": 1,
     "nome": "Ze Fulano",
-    "email": "zezinho@email.com",
     "idade": 40,
+    "email": "zezinho@email.com",
     "telefones": [
       {
         "id": 3,
@@ -26,8 +26,8 @@
   {
     "id": 2,
     "nome": "Manoel Antunes",
-    "email": "manoel@email.com",
     "idade": 26,
+    "email": "manoel@email.com",
     "telefones": [
       {
         "id": 1,
