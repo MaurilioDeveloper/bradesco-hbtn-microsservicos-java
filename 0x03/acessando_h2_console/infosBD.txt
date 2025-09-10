@@ -1,3 +1,3 @@
 1. JDBC URL: jdbc:h2:file:./bd/demobd
-2. User Name: sa
+2. User Name: Admin
 3. Password: 123456
